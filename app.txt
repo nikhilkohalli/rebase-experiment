@@ -1,2 +1,4 @@
 This is the original file.
-Remote developer added this line.
+Remote developer added this line
+Local developer added this line
+
